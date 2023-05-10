@@ -1,0 +1,5 @@
+pyttsx3
+pyaudio
+SpeechRecognition
+pyautogui
+transliterate
